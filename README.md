@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vennela765
-- 👀 I’m interested in web development and designing
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in web development, designing and app development
+- 🌱 I’m currently learning to build app using android studio
 - 💞️ I’m looking to collaborate on google,pintrest
-- 📫 How to reach me through mail
+- 📫 How to reach me through mail 
 - 😄 Pronouns: she-her
 - ⚡ Fun fact: A group of flamingoes is called a flamboyance.How fabulous is that? 🦩💃🏻
 
